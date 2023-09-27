@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+terraform.*
+ssh_github
+ssh_github.pub
